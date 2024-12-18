@@ -18,7 +18,7 @@ const AllReport = () => {
   }, []);
 
   return (
-    <div className="w-screen h-screen bg-gray-900">
+    <div className="w-screen  h-[100%] bg-gray-900">
       {/* Centered Heading */}
       <div className="flex justify-center items-center mb-12">
         <h2 className="text-5xl font-extrabold text-orange-200 text-center mt-10">
